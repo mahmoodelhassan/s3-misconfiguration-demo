@@ -23,7 +23,7 @@ loaded successfully, confirming the bucket was exposed.
 **Before (public access working):**
 
 
-![before](before.png)
+![before](after.png)
 
 
 
@@ -37,7 +37,7 @@ Accessed the same URL again — received `AccessDenied`.
 **After (access denied):**
 
 
-![after](after.png)
+![after](before.png)
 
 
 
